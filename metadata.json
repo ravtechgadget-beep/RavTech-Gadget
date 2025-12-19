@@ -1,0 +1,9 @@
+{
+  "name": "Copy of The PreBirth Archive",
+  "description": "A tactical cosmic intelligence agency dashboard that decodes your spiritual source code into actionable dossiers using AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
